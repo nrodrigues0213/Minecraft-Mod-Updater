@@ -2,8 +2,6 @@
 * Requires Python 3.6, Requests 2.18.4
 * Distribute it with PyInstaller 3.3
 
-README UNDER CONSTRUCTION
-
 Keep your private Minecraft mods up-to-date with your less technically gifted friends. 
 
 Sharing your personal mod with friends can be challenging when they lack the computer knowledge to correctly install the files. This python script will take care of the process for them. 
